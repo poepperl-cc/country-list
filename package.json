@@ -1,9 +1,12 @@
 {
-  "name": "@umpirsky/country-list",
-  "description": "List of all countries with names and ISO 3166-1 codes in all languages and data formats.",
-  "version": "1.0.0",
-  "homepage": "http://github.com/umpirsky/country-list",
-  "repository": "git://github.com/umpirsky/country-list.git",
-  "author": "Saša Stamenković <umpirsky@gmail.com>",
-  "license": "MIT"
+    "name": "@poepperl-cc/country-list",
+    "description": "List of all countries with names and ISO 3166-1 codes in all languages and data formats. This repo is a fork from the original umpirsky/country-list package. It makes the project easier to use in PHP projects.",
+    "version": "1.0.0",
+    "homepage": "http://github.com/poepperl-cc/country-list",
+    "repository": "git://github.com/poepperl-cc/country-list.git",
+    "contributors": [
+        "René Pöpperl <rp@rene-poepperl.de> (https://rene-poepperl.de)",
+        "Saša Stamenković <umpirsky@gmail.com>"
+    ],
+    "license": "MIT"
 }

@@ -1,25 +1,16 @@
 <h3 align="center">
-    <a href="https://github.com/umpirsky">
-        <img src="https://farm2.staticflickr.com/1709/25098526884_ae4d50465f_o_d.png" />
+    <a href="https://rene-poepperl.de">
+        <img src="https://rene-poepperl.de/wp-content/uploads/2023/01/po%CC%88pperl-code-content.png" />
     </a>
 </h3>
-<p align="center">
-  <a href="https://github.com/umpirsky/Symfony-Upgrade-Fixer">symfony upgrade fixer</a> &bull;
-  <a href="https://github.com/umpirsky/Twig-Gettext-Extractor">twig gettext extractor</a> &bull;
-  <a href="https://github.com/umpirsky/wisdom">wisdom</a> &bull;
-  <a href="https://github.com/umpirsky/centipede">centipede</a> &bull;
-  <a href="https://github.com/umpirsky/PermissionsHandler">permissions handler</a> &bull;
-  <a href="https://github.com/umpirsky/Extraload">extraload</a> &bull;
-  <a href="https://github.com/umpirsky/Gravatar">gravatar</a> &bull;
-  <a href="https://github.com/umpirsky/locurro">locurro</a> &bull;
-  <b>country list</b> &bull;
-  <a href="https://github.com/umpirsky/Transliterator">transliterator</a>
-</p>
 
 Country List
 ============
 
-List of all countries with names and ISO 3166-1 codes in all languages and all data formats.
+List of all countries with names and ISO 3166-1 codes in all languages and data 
+formats. This repo is a fork from the original umpirsky/country-list package. 
+It makes the project easier to use in PHP projects.
+    
 
 Install
 -------------
@@ -43,12 +34,11 @@ Formats Available
 - PHP
 - XLIFF
 
-If you intend to use the package with PHP see [this](https://github.com/umpirsky/country-list/blob/master/bin/build#L11-L19).
 
 Multilingual
 ------------
 
-All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/data).
+All formats are also available in multiple languages, please find full language list [here](https://github.com/poepperl-cc/country-list/tree/master/data).
 
 Build
 -----
@@ -63,11 +53,3 @@ If you need to install composer, get it from https://getcomposer.org/
 installation instructions can be found here:
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
 
-
-Other Interesting Lists
------------------------
-
-* [Currency List](https://github.com/umpirsky/currency-list)
-* [Language List](https://github.com/umpirsky/language-list)
-* [Locale List](https://github.com/umpirsky/locale-list)
-* [TLD List](https://github.com/umpirsky/tld-list)
