@@ -15,7 +15,7 @@ It makes the project easier to use in PHP projects.
 Install
 -------------
 ```shell
-composer require umpirsky/country-list
+composer require poepperl-cc/country-list
 ```
 
 Formats Available
